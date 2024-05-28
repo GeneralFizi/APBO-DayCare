@@ -28,5 +28,6 @@ jadwal, kehadiran, dan laporan.
 4. Gunakan class diagram untuk memodelkan struktur objek
 5. Gunakan ERD untuk memodelkan hubungan antara entitas dalam sistem
 
+![Class Diagram](https://github.com/GeneralFizi/APBO-DayCare/assets/135718695/d0808bd1-0b4f-43c3-acbc-0450f91ab0b0)
 
-https://github.com/GeneralFizi/APBO-DayCare/blob/main/Class%20Diagram.png
+![ERD](https://github.com/GeneralFizi/APBO-DayCare/assets/135718695/32923eed-d363-4e57-a86f-c467c81ff8c1)
