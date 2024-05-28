@@ -27,3 +27,6 @@ jadwal, kehadiran, dan laporan.
 3. Gunakan teknik use case untuk memodelkan interaksi antara aktor dan sistem
 4. Gunakan class diagram untuk memodelkan struktur objek
 5. Gunakan ERD untuk memodelkan hubungan antara entitas dalam sistem
+
+
+https://github.com/GeneralFizi/APBO-DayCare/blob/main/Class%20Diagram.png
