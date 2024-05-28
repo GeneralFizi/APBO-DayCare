@@ -30,14 +30,27 @@ jadwal, kehadiran, dan laporan.
 
 
 **CLASS DIAGRAM**
+------------------------------------------------------------------------------------------------------------------------
 ![Class Diagram](https://github.com/GeneralFizi/APBO-DayCare/assets/135718695/d0808bd1-0b4f-43c3-acbc-0450f91ab0b0)
-------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
 **ERD**
+------------------------------------------------------------------------------------------------------------------------
 ![ERD](https://github.com/GeneralFizi/APBO-DayCare/assets/135718695/32923eed-d363-4e57-a86f-c467c81ff8c1)
-------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
 **Use Case Diagram**
-![Usecase](https://github.com/GeneralFizi/APBO-DayCare/assets/135718695/938a0a25-f799-4f68-a391-ea78feaad37e)
 ------------------------------------------------------------------------------------------------------------------------
+![Usecase](https://github.com/GeneralFizi/APBO-DayCare/assets/135718695/938a0a25-f799-4f68-a391-ea78feaad37e)
+
 
 
 Keterangan : 
@@ -45,4 +58,3 @@ Keterangan :
 2. orang tua tidak perlu login untuk mendapatkan laporan harian.
 3. presensi kehadian anak hanya sebatas " hari ini si A nitip anaknya disini"
 4. Menurut google, daycare masih bisa sampai usia belasan tahun. disini saya membuat fitur lihat laporan yang bisa diakses oleh anak maupun orang tua.
-5. 
