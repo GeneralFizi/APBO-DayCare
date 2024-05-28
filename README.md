@@ -49,12 +49,16 @@ jadwal, kehadiran, dan laporan.
 
 **Use Case Diagram**
 ------------------------------------------------------------------------------------------------------------------------
-![Usecase](https://github.com/GeneralFizi/APBO-DayCare/assets/135718695/938a0a25-f799-4f68-a391-ea78feaad37e)
+![Usecase](https://github.com/GeneralFizi/APBO-DayCare/assets/135718695/ef1ab99a-1aba-4e3c-a336-11330f072556)
+
 
 
 
 Keterangan : 
-1. orang tua mempunyai banyak anak sehingga hubungannya one to many
-2. orang tua tidak perlu login untuk mendapatkan laporan harian.
-3. presensi kehadian anak hanya sebatas " hari ini si A nitip anaknya disini"
-4. Menurut google, daycare masih bisa sampai usia belasan tahun. disini saya membuat fitur lihat laporan yang bisa diakses oleh anak maupun orang tua.
+1. terdapat 4 aktor yaitu : anak, orang tua, staff dan admin
+2. untuk kebutuhan fungsional, menurut saya daycare tidak perlu membangun aplikasi. cukup membuat sistem informasi berbasis web yang dijalankan di localhost. dengan begitu, semua archive, absen, penjadwalan bisa dilakukan locally
+3. orang tua mempunyai banyak anak sehingga hubungannya one to many
+4. orang tua tidak perlu login untuk mendapatkan laporan harian.
+5. presensi kehadian anak hanya sebatas " hari ini si A nitip anaknya disini"
+6. Menurut google, daycare masih bisa sampai usia belasan tahun. jadi, disini saya membuat fitur lihat laporan yang bisa diakses oleh anak maupun orang tua. 
+
