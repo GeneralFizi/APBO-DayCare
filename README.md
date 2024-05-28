@@ -31,7 +31,8 @@ jadwal, kehadiran, dan laporan.
 
 **CLASS DIAGRAM**
 ------------------------------------------------------------------------------------------------------------------------
-![Class Diagram](https://github.com/GeneralFizi/APBO-DayCare/assets/135718695/d0808bd1-0b4f-43c3-acbc-0450f91ab0b0)
+![Class Diagram](https://github.com/GeneralFizi/APBO-DayCare/assets/135718695/a6f044b7-3798-411b-8935-041af9c61727)
+
 
 
 
